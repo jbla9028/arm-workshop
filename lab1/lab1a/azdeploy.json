@@ -6,7 +6,7 @@
     "resources": [
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "jbtest-stgaccount",
+            "name": "jbteststgaccountlab1",
             "apiVersion": "2015-06-15",
             "location": "[resourceGroup().location]",
             "tags": {
